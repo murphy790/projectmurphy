@@ -1,0 +1,25 @@
+#homeDiv{
+    background-image: url(https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1384&q=80);
+    height: 50vh;
+    background-size: contain;
+}
+
+#aboutDiv{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIvg8zt9oEiH89x03dqDju8YmGenwAdbAsuzPgipN7gF9a7pSTHJ0AssaKxmJCdq0MLs&usqp=CAU);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#educationDiv{
+    background-image: url(https://besthqwallpapers.com/Uploads/24-8-2019/102582/thumb2-education-is-very-important-gray-background-creative-art-education-motivation.jpg);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+body{
+    font-family: 'Lobster', cursive;
+}
